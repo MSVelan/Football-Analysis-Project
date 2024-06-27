@@ -1,0 +1,9 @@
+# Ignore models directory
+training/yolov5xu.pt
+yolov8x.pt
+
+# Ignore runs directory completely
+runs/
+
+# Ignore fine tuned models inside models directory
+models/*.pt
