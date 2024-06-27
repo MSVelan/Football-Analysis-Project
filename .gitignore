@@ -7,3 +7,7 @@ runs/
 
 # Ignore fine tuned models inside models directory
 models/*.pt
+training/yolov5xu.pt
+yolov8x.pt
+runs/
+models/*.pt
